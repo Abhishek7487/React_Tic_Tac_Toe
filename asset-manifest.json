@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Abhishek7487/React_Tic_Tac_Toe/static/css/main.1c412572.css",
-    "main.js": "/Abhishek7487/React_Tic_Tac_Toe/static/js/main.b3a1343d.js",
-    "static/js/787.146e0bfb.chunk.js": "/Abhishek7487/React_Tic_Tac_Toe/static/js/787.146e0bfb.chunk.js",
-    "index.html": "/Abhishek7487/React_Tic_Tac_Toe/index.html",
-    "main.1c412572.css.map": "/Abhishek7487/React_Tic_Tac_Toe/static/css/main.1c412572.css.map",
-    "main.b3a1343d.js.map": "/Abhishek7487/React_Tic_Tac_Toe/static/js/main.b3a1343d.js.map",
-    "787.146e0bfb.chunk.js.map": "/Abhishek7487/React_Tic_Tac_Toe/static/js/787.146e0bfb.chunk.js.map"
+    "main.css": "/React_Tic_Tac_Toe/static/css/main.1c412572.css",
+    "main.js": "/React_Tic_Tac_Toe/static/js/main.5b8b179c.js",
+    "static/js/787.146e0bfb.chunk.js": "/React_Tic_Tac_Toe/static/js/787.146e0bfb.chunk.js",
+    "index.html": "/React_Tic_Tac_Toe/index.html",
+    "main.1c412572.css.map": "/React_Tic_Tac_Toe/static/css/main.1c412572.css.map",
+    "main.5b8b179c.js.map": "/React_Tic_Tac_Toe/static/js/main.5b8b179c.js.map",
+    "787.146e0bfb.chunk.js.map": "/React_Tic_Tac_Toe/static/js/787.146e0bfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c412572.css",
-    "static/js/main.b3a1343d.js"
+    "static/js/main.5b8b179c.js"
   ]
 }
